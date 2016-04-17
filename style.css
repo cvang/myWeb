@@ -31,10 +31,6 @@ p {
     position: fixed;
 }
 
-.left-nav ul li a.homeActive {
-    color: green;
-}
-
 .left-nav ul {
     list-style-type: none;
     width: 95px;
