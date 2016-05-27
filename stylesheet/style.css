@@ -7,7 +7,7 @@ p {
     height: 75px;
     border-radius: 10px;
     max-width: 940px;
-    background-color: maroon;
+    background-color: lightseagreen;
 }
 
 .container {
@@ -27,7 +27,7 @@ p {
     height: 500px;
     width: 110px;
     margin-top: 10px;
-    background-color: maroon;
+    background-color: lightseagreen;
     position: fixed;
 }
 
