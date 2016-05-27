@@ -6,7 +6,7 @@ p {
     text-align: center;
     height: 75px;
     border-radius: 10px;
-    max-width: 940px;
+    max-width: 100%;
     background-color: lightseagreen;
 }
 
@@ -16,7 +16,7 @@ p {
     background-color: ghostwhite;
     overflow: auto;
     margin-top: 10px;
-    max-width: 800px;
+    max-width: 100%S;
     height: 500px;
     margin-left: 120px;
     padding-right: 10px;
