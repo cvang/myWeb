@@ -7,13 +7,13 @@ p {
     height: 75px;
     border-radius: 10px;
     max-width: 940px;
-    background-color: blanchedalmond;
+    background-color: maroon;
 }
 
 .container {
     border-radius: 10px;
     padding-left: 10px;
-    background-color: #e8e8e8;
+    background-color: ghostwhite;
     overflow: auto;
     margin-top: 10px;
     max-width: 800px;
@@ -27,22 +27,18 @@ p {
     height: 500px;
     width: 110px;
     margin-top: 10px;
-    background-color: blanchedalmond;
+    background-color: maroon;
     position: fixed;
 }
 
 .left-nav ul li a.homeActive {
-    color: green;
+    color: dimgrey;
 }
 
 .left-nav ul {
     list-style-type: none;
     width: 95px;
     padding: 10px 0px 10px 16px;
-}
-
-.left-nav li {
-    display: block;
 }
 
 .left-nav li a:hover {
